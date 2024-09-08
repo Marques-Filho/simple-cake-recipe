@@ -5,7 +5,7 @@ h1 {
 
 /* Estilo para o fundo da página */
 body {
-    background-image: url('/images/2148653993.jpg');
+    background-image: url('/images/imagem-fundo.jpg');
     background-size: cover; /* Cobre toda a área do fundo */
     background-repeat: no-repeat; /* Não repete a imagem */
     background-attachment: fixed; /* Fixa a imagem no fundo */
